@@ -1,0 +1,42 @@
+HTTrack3.48-22+htsswf+htsjava launched on Fri, 02 Dec 2016 01:57:26 at http://albelad-computers.webflow.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://albelad-computers.webflow.io/ -O1 "C:\WORK\WEB\http___albelad-computers.webflow.io_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:57:26	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link albelad-computers.webflow.io/robots.txt (from primary/primary)
+01:57:51	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/about (from albelad-computers.webflow.io/)
+01:57:52	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/projects/music-player (from albelad-computers.webflow.io/)
+01:57:52	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/projects/console-app (from albelad-computers.webflow.io/)
+01:57:52	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/projects/infographic (from albelad-computers.webflow.io/)
+01:57:53	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/projects/sports-car-app (from albelad-computers.webflow.io/)
+01:57:53	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/projects/music-app (from albelad-computers.webflow.io/)
+01:57:53	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/projects/photo-app-icon (from albelad-computers.webflow.io/)
+01:57:53	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/projects/news-feed (from albelad-computers.webflow.io/)
+01:57:53	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/projects/photo-app (from albelad-computers.webflow.io/)
+01:57:54	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/projects/flat-design (from albelad-computers.webflow.io/)
+01:57:55	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/about (from albelad-computers.webflow.io/)
+01:57:55	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/projects/music-player (from albelad-computers.webflow.io/)
+01:57:55	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/projects/console-app (from albelad-computers.webflow.io/)
+01:57:55	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/projects/infographic (from albelad-computers.webflow.io/)
+01:57:56	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/projects/sports-car-app (from albelad-computers.webflow.io/)
+01:57:56	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/projects/music-app (from albelad-computers.webflow.io/)
+01:57:56	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/projects/photo-app-icon (from albelad-computers.webflow.io/)
+01:57:56	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/projects/news-feed (from albelad-computers.webflow.io/)
+01:57:56	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/projects/photo-app (from albelad-computers.webflow.io/)
+01:57:56	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link albelad-computers.webflow.io/projects/flat-design (from albelad-computers.webflow.io/)
+01:57:56	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link albelad-computers.webflow.io/about (from albelad-computers.webflow.io/)
+01:57:56	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link albelad-computers.webflow.io/projects/music-player (from albelad-computers.webflow.io/)
+01:57:56	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link albelad-computers.webflow.io/projects/console-app (from albelad-computers.webflow.io/)
+01:57:56	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link albelad-computers.webflow.io/projects/infographic (from albelad-computers.webflow.io/)
+01:57:56	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link albelad-computers.webflow.io/projects/sports-car-app (from albelad-computers.webflow.io/)
+01:57:56	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link albelad-computers.webflow.io/projects/music-app (from albelad-computers.webflow.io/)
+01:57:56	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link albelad-computers.webflow.io/projects/photo-app-icon (from albelad-computers.webflow.io/)
+01:57:56	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link albelad-computers.webflow.io/projects/news-feed (from albelad-computers.webflow.io/)
+01:57:57	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link albelad-computers.webflow.io/projects/photo-app (from albelad-computers.webflow.io/)
+01:57:57	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link albelad-computers.webflow.io/projects/flat-design (from albelad-computers.webflow.io/)
+
+HTTrack Website Copier/3.48-22 mirror complete in 31 seconds : 51 links scanned, 20 files written (2238102 bytes overall) [2108626 bytes received at 68020 bytes/sec], 202315 bytes transferred using HTTP compression in 4 files, ratio 26%, 3.9 requests per connection
+(11 errors, 20 warnings, 0 messages)
